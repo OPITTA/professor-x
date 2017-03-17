@@ -4,6 +4,7 @@
 
 
 # 架构图
+![](https://github.com/OPITTA/professor-x/blob/master/architecture.png)
 
 
 
